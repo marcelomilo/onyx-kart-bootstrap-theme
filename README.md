@@ -45,8 +45,6 @@ License
 	You should have received a copy of the GNU General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-If you would like to relicense this code to distribute it on the App Store, 
-please contact us at [milo@blackonyx.ie](mailto:milo@blackonyx.ie)
 
 NOTE This project was previously and incorrectly licensed under the Public Domain. It has now been changed to be compatible with Twitter Bootstrap's current license.
 
